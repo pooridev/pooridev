@@ -1,7 +1,7 @@
 ### Howdy 👋
 
 
-- 🔭 I’m currently working on Javascript
+- 🔭 I’m currently working on Instagram
 - 🌱 I’m currently learning ... React.js & Git
 - 💬 Ask me about ... HTML 😈
 - 📫 How to reach me: ... pooriafaramarzian@gmail.com
