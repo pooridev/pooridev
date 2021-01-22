@@ -6,4 +6,4 @@
 - 💬 Ask me about ... HTML 😈
 - 📫 How to reach me: ... [Instagram](https://www.instagram.com/pooria.faramarzian/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I can't code without Rap musics
+- ⚡ Fun fact: ... I can't code without rap
