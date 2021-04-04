@@ -7,4 +7,4 @@
 - 🌍 Let's save the planet by JavaScript 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/this.poori/) | | [Email](mailto:pooriafaramarzian@gamil.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can't code without Rap
+- ⚡ Fun fact: I can't code without music
