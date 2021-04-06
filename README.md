@@ -1,4 +1,4 @@
-### Howdy 👋
+### Hi there 👋
 
 
 - 🔭 I’m currently working on [Instagram](https://www.instagram.com/junior.coders/)
