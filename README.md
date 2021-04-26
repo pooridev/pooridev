@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [Instagram](https://www.instagram.com/junior.coders/)
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Redux
 - 💬 Ask me about hacking Nasa using pure HTML & CSS  😈
 - 🌍 Let's save the planet by JavaScript 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/this.poori/) | | [Email](mailto:pooriafaramarzian@gamil.com)
