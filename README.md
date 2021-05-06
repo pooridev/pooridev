@@ -6,5 +6,4 @@
 - 💬 Ask me about hacking Nasa using pure HTML & CSS  😈
 - 🌍 Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: [Instagram](https://www.instagram.com/this.poori/) | | [Email](mailto:pooriafaramarzian@gamil.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can't code without music
+- 😄 Pronouns: He/Him/Poori
