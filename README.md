@@ -6,4 +6,4 @@
 - 💬 Ask me about hacking Nasa using pure HTML & CSS  😈
 - 🌍 Most used line of code `console.log("test")`
 - 📫 How to reach me: [Instagram](https://www.instagram.com/this.poori/) | | [Email](mailto:pooriafaramarzian@gamil.com)
-- 😄 Pronouns: He/Him/Poori
+- 😄 Pronouns: Poori/He
