@@ -8,5 +8,6 @@
 - 📫 How to reach me: [Instagram](https://www.instagram.com/this.poori/) | | [Email](mailto:pooriafaramarzian@gamil.com)
 - 😄 Pronouns: Poori/He
 
-<br />
-<img src="https://komarev.com/ghpvc/?username=pooridev&color=green">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pooridev&show_icons=true&theme=dark"/> 
+</p>
