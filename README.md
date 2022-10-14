@@ -1,12 +1,13 @@
-### Hi there 👋
+<p align="center">
+I am Pooria, a 20-year-old front-end developer with +2 years of building e-commerce websites and apps in fast-paced collaborative environments.
+</ br>
+I have been learning JavaScript for more than 3 years now, every single day! I’m doing ok with JavaScript in my humble opinion!
+additionally, I like to think that I specialized in ReactJS. I’ve been working professionally as React developer for 2 years now.
+</ br>
+Moreover, I have adequate skills in Backend technologies such as NodeJS and ExpressJS which makes me an ideal member of a software development team as I can combine my knowledge from both Backend and Frontend and utilize them to achieve the set goals.
+I am also a quick learner and have a curiosity that leads me to constantly explore and learn new things 🔥
 
-
-- 🔭 I’m currently working on [Instagram](https://www.instagram.com/junior.coders/)
-- 🌱 I’m currently learning Front-End Engineering
-- 💬 Ask me about hacking Nasa using pure HTML & CSS  😈
-- 🌍 Most used line of code `console.log("Resid Inja (It's in Persian)")`
-- 📫 How to reach me: [Instagram](https://www.instagram.com/this.pooria/) | | [Email](mailto:pooriafaramarzian@gamil.com)
-- 😄 Pronouns: Poori/He
+<p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pooridev&show_icons=true&theme=dark"/> 
