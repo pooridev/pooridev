@@ -1,4 +1,4 @@
-<h1 align="center">Hi there , I Am Pooria Faramarzian 👋</h1>
+<h1 align="center">Hi there , I am Pooria Faramarzian 👋</h1>
 
 <p align="center">
 I am Pooria, a 20-year-old front-end developer with +2 years of building e-commerce websites and apps in fast-paced collaborative environments.
