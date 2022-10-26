@@ -37,4 +37,4 @@ I am also a quick learner and have a curiosity that leads me to constantly explo
 ### Stay in touch:
 [![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/this.pooria/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/faramarzian)
-[![twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/pooridev)
+<!-- [![twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/pooridev) -->
