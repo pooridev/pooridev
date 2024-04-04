@@ -1,7 +1,7 @@
 <h1 align="center">Hi there , I am Pooria Faramarzian 👋</h1>
 
 <p align="center">
-As a 20yo frontend developer, I am highly effective at developing and standardizing designs that align with the company brand and
+As a 21yo frontend developer, I am highly effective at developing and standardizing designs that align with the company brand and
 objectives. With 3 years of experience in JavaScript, I build responsive and performant features that drive business growth and
 improve user experience (UX) and developer experience (DX). I have expertise in writing scalable and testable react code, which
 helps companies create and maintain a better code base. I aim to create engaging art that invites viewers to step forward and
